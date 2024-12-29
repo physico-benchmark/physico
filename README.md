@@ -12,4 +12,4 @@ pip install physico
 
 ## ✨ Example Usage
 
-See [examples/usage.ipynb](examples/usage.ipynb).
+See [examples/usage.ipynb](https://github.com/physico-benchmark/physico/blob/main/examples/usage.ipynb).
