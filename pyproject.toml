@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "physico"
+version = "0.1.0"
+description = "Tools for PhysiCo Dataset"
+readme = "README.md"
+authors = [
+    { name = "Shunchi Zhang", email = "shunchizhang.cs@gmail.com" }
+]
+dynamic=["dependencies"]
+
+[tool.setuptools.dynamic]
+dependencies = {file = ["requirements.txt"]}
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[project.urls]
+Homepage = "https://physico-benchmark.github.io"
+Repository = "https://github.com/physico-benchmark/physico"
+
