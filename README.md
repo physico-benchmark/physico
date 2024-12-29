@@ -7,7 +7,7 @@
 ## 🛠️ Installation
 
 ```sh
-pip install git+https://github.com/physico-benchmark/physico.git
+pip install physico
 ```
 
 ## ✨ Example Usage
