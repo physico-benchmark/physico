@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+preferred-citation:
+  type: conference-paper
+  title: "The Stochastic Parrot on LLM's Shoulder: A Summative Assessment of Physical Concept Understanding"
+  authors:
+  - given-names: Mo
+    family-names: Yu
+  - given-names: Lemao
+    family-names: Liu
+  - given-names: Junjie
+    family-names: Wu
+  - given-names: Tsz Ting
+    family-names: Chung
+  - given-names: Shunchi
+    family-names: Zhang
+  - given-names: Jiangnan
+    family-names: Li
+  - given-names: Dit-Yan
+    family-names: Yeung
+  - given-names: Jie
+    family-names: Zhou
+  collection-title: "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)"
+  collection-type: proceedings
+  year: 2025
